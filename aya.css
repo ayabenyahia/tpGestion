@@ -1,16 +1,4 @@
-h1
-    {
-            color: rgb(14, 212, 212);
-            font-size: 20px;
-    }
-    h2
-    {
-        color: blueviolet;
-        font-size: x-large;
-        font-style: oblique;
-    }
-h3
-{
-        color: brown;
-        font-style: initial;
+h1 {
+    text-align: center;
 }
+ 
